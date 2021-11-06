@@ -1,1 +1,1 @@
-1 worked: python main.py
+web: gunicorn main:app
